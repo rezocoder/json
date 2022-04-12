@@ -1,0 +1,21 @@
+{
+	"currentDate": "2022-04-12T08:00:13.059Z",
+	"days": [
+		{
+			"date": "2022-04-11T08:00:13.059Z",
+			"isActive": false
+		},
+		{
+			"date": "2022-04-12T08:00:13.059Z",
+			"isActive": true
+		},
+		{
+			"date": "2022-04-13T08:00:13.059Z",
+			"isActive": false
+		},
+		{
+			"date": "2022-04-14T08:00:13.059Z",
+			"isActive": false
+		}
+	]
+}

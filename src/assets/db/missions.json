@@ -1,0 +1,59 @@
+{
+	"2022-04-11T08:00:13.059Z": {
+		"deposit": {
+			"min": 0,
+			"max": 10,
+			"current": 10,
+			"isFullfilled": true
+		},
+		"slot": {
+			"min": 0,
+			"max": 50,
+			"current": 50,
+			"isFullfilled": true
+		}
+	},
+	"2022-04-12T08:00:13.059Z": {
+		"deposit": {
+			"min": 0,
+			"max": 10,
+			"current": 5,
+			"isFullfilled": false
+		},
+		"slot": {
+			"min": 0,
+			"max": 50,
+			"current": 40,
+			"isFullfilled": false
+		}
+	},
+	"2022-04-13T08:00:13.059Z": {
+		"deposit": {
+			"min": 0,
+			"max": 10,
+			"current": 5,
+			"isFullfilled": false
+		},
+		"slot": {
+			"min": 0,
+			"max": 50,
+			"current": 5,
+			"isFullfilled": false
+		}
+	},
+	"2022-04-14T08:00:13.059Z": {
+		"deposit": {
+			"min": 0,
+			"max": 10,
+			"current": 5,
+			"isFullfilled": false
+		},
+		"slot": {
+			"min": 0,
+			"max": 50,
+			"current": 5,
+			"isFullfilled": false
+		}
+	}
+}
+

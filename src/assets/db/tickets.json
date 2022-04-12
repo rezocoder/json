@@ -1,0 +1,338 @@
+{
+	"2022-04-11T08:00:13.059Z": {
+		"state": "2",
+		"betslip": [
+			{
+				"firstTeam": "MILAN",
+				"firstTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"secondTeam": "PORTO",
+				"secondTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"startDate": "2022-04-11T10:00:13.059Z",
+				"state": 1,
+        "outcomes": [
+					{
+						"name": "1",
+						"odd": 2.5,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "2",
+						"odd": 2.8,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "X",
+						"odd": 2.9,
+						"state": "1 || 2 || 3"
+					}
+
+				]
+			},
+			{
+				"firstTeam": "REAL",
+				"firstTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"secondTeam": "CHELSEA",
+				"secondTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"startDate": "2022-04-11T10:00:13.059Z",
+				"state": 1,
+        "outcomes": [
+					{
+						"name": "1",
+						"odd": 2.5,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "2",
+						"odd": 2.8,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "X",
+						"odd": 2.9,
+						"state": "1 || 2 || 3"
+					}
+
+				]
+			},
+			{
+				"firstTeam": "BAYERN",
+				"firstTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"secondTeam": "VILLAREAL",
+				"secondTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"startDate": "2022-04-11T10:00:13.059Z",
+				"state": 1,
+        "outcomes": [
+					{
+						"name": "1",
+						"odd": 2.5,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "2",
+						"odd": 2.8,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "X",
+						"odd": 2.9,
+						"state": "1 || 2 || 3"
+					}
+
+				]
+			}
+
+		]
+	},
+	"2022-04-12T08:00:13.059Z": {
+		"state": "1",
+		"betslip": [
+			{
+				"firstTeam": "MILAN",
+				"firstTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"secondTeam": "PORTO",
+				"secondTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"startDate": "2022-04-11T10:00:13.059Z",
+				"state": 1,
+        "outcomes": [
+					{
+						"name": "1",
+						"odd": 2.5,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "2",
+						"odd": 2.8,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "X",
+						"odd": 2.9,
+						"state": "1 || 2 || 3"
+					}
+
+				]
+			},
+			{
+				"firstTeam": "REAL",
+				"firstTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"secondTeam": "CHELSEA",
+				"secondTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"startDate": "2022-04-11T10:00:13.059Z",
+				"state": 1,
+        "outcomes": [
+					{
+						"name": "1",
+						"odd": 2.5,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "2",
+						"odd": 2.8,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "X",
+						"odd": 2.9,
+						"state": "1 || 2 || 3"
+					}
+
+				]
+			},
+			{
+				"firstTeam": "BAYERN",
+				"firstTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"secondTeam": "VILLAREAL",
+				"secondTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"startDate": "2022-04-11T10:00:13.059Z",
+				"state": 1,
+        "outcomes": [
+					{
+						"name": "1",
+						"odd": 2.5,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "2",
+						"odd": 2.8,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "X",
+						"odd": 2.9,
+						"state": "1 || 2 || 3"
+					}
+
+				]
+			}
+
+		]
+	},
+	"2022-04-13T08:00:13.059Z": {
+		"state": "2",
+		"betslip": [
+			{
+				"firstTeam": "MILAN",
+				"firstTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"secondTeam": "PORTO",
+				"secondTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"startDate": "2022-04-11T10:00:13.059Z",
+				"state": 1,
+        "outcomes": [
+					{
+						"name": "1",
+						"odd": 2.5,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "2",
+						"odd": 2.8,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "X",
+						"odd": 2.9,
+						"state": "1 || 2 || 3"
+					}
+
+				]
+			},
+			{
+				"firstTeam": "REAL",
+				"firstTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"secondTeam": "CHELSEA",
+				"secondTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"startDate": "2022-04-11T10:00:13.059Z",
+				"state": 1,
+        "outcomes": [
+					{
+						"name": "1",
+						"odd": 2.5,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "2",
+						"odd": 2.8,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "X",
+						"odd": 2.9,
+						"state": "1 || 2 || 3"
+					}
+
+				]
+			},
+			{
+				"firstTeam": "BAYERN",
+				"firstTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"secondTeam": "VILLAREAL",
+				"secondTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"startDate": "2022-04-11T10:00:13.059Z",
+				"state": 1,
+        "outcomes": [
+					{
+						"name": "1",
+						"odd": 2.5,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "2",
+						"odd": 2.8,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "X",
+						"odd": 2.9,
+						"state": "1 || 2 || 3"
+					}
+
+				]
+			}
+
+		]
+	},
+	"2022-04-14T08:00:13.059Z": {
+		"state": "2",
+		"betslip": [
+			{
+				"firstTeam": "MILAN",
+				"firstTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"secondTeam": "PORTO",
+				"secondTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"startDate": "2022-04-11T10:00:13.059Z",
+				"state": 1,
+        "outcomes": [
+					{
+						"name": "1",
+						"odd": 2.5,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "2",
+						"odd": 2.8,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "X",
+						"odd": 2.9,
+						"state": "1 || 2 || 3"
+					}
+
+				]
+			},
+			{
+				"firstTeam": "REAL",
+				"firstTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"secondTeam": "CHELSEA",
+				"secondTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"startDate": "2022-04-11T10:00:13.059Z",
+				"state": 1,
+        "outcomes": [
+					{
+						"name": "1",
+						"odd": 2.5,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "2",
+						"odd": 2.8,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "X",
+						"odd": 2.9,
+						"state": "1 || 2 || 3"
+					}
+
+				]
+			},
+			{
+				"firstTeam": "BAYERN",
+				"firstTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"secondTeam": "VILLAREAL",
+				"secondTeamFlag": "https://cdn.betlive.com/AAEAAQAAAAAAAAAWAAAAJDFjNTMwNTJmLTk5MGUtNGY0Mi04M2FjLWFlNzZjMWFjZDc1Mw",
+				"startDate": "2022-04-11T10:00:13.059Z",
+				"state": 1,
+        "outcomes": [
+					{
+						"name": "1",
+						"odd": 2.5,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "2",
+						"odd": 2.8,
+						"state": "1 || 2 || 3"
+					},
+					{
+						"name": "X",
+						"odd": 2.9,
+						"state": "1 || 2 || 3"
+					}
+
+				]
+			}
+
+		]
+	}
+}
