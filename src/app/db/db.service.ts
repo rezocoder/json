@@ -1,5 +1,5 @@
 import { Injectable } from "@angular/core";
-import { debounceTime, of } from "rxjs";
+import { BehaviorSubject, debounceTime, filter, of, switchMap, timeout } from "rxjs";
 import { IDate } from "./models/idate";
 import { ILeaderboard } from "./models/ileaderboard";
 import { IMissions } from "./models/imissions";
@@ -14,16 +14,38 @@ export class DBService {
   private _missions!: IMissions;
   private _leaderboardDates!: IDate;
   private _leaderboard!: ILeaderboard;
+  private _isLoaded$ = new BehaviorSubject<boolean>(false);
+  private _routerMap!: { [name: string]: any };
   constructor() {
     this.loadJSON();
+    setTimeout(() => {
+      this._routerMap = {
+        'api/GetDates': this._dates,
+        'api/GetTickets': this._tickets,
+        'api/GetMissions': this._missions,
+        'api/GetLeaderboardDates': this._leaderboardDates,
+        'api/GetLeaderboard': this._leaderboard
+      };
+      this._isLoaded$.next(true);
+    }, 500);
   }
-
   getBetslip(date: string) {
     return this.tickets[date].betslip;
   }
 
-  isLoaded$() {
-    return of(true).pipe(debounceTime(1000));
+  httpGet(route: string) {
+    return this._isLoaded$
+      .pipe(
+        filter(isloaded => isloaded),
+        switchMap(() => {
+          console.log(this._routerMap, this._routerMap[route])
+          return of(this._routerMap[route])
+        })
+      );
+  }
+
+  get isLoaded$() {
+    return this._isLoaded$;
   }
 
   get dates() {
@@ -71,7 +93,7 @@ export class DBService {
   private loadLeaderboardDates() {
     fetch('assets/db/leaderboard-dates.json')
       .then(res => res.json())
-      .then(res => this._leaderboardDates = res);
+      .then(res => this._leaderboardDates = res)
   }
 
   private loadLeaderboard() {

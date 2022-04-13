@@ -1,8 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { tick } from '@angular/core/testing';
-import { throws } from 'assert';
 import { DBService } from './db/db.service';
 import { IBetslip } from './db/models/iticket';
+import { HttpRequestService } from './services/http-request.service';
 
 
 @Component({
@@ -16,14 +16,16 @@ export class AppComponent {
   //countryList:{name:String, code:String}[]=countries;
 
   constructor(
-    private dbService: DBService
+    private httpRequestService: HttpRequestService
   ) {}
 
   ngOnInit() {
-    let date = this.dbService.dates;
+    this.httpRequestService.getData()
+      .subscribe(data => console.log(data));
 
-    let ticket = this.dbService.tickets;
-    this.betslip = this.dbService.getBetslip(date.currentDate);
+    // this.httpRequestService.getTickets('')
+    //   .subscribe(data => {
+    //   })
 
   }
 }
